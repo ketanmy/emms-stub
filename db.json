@@ -1,9 +1,22 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
+    "vouchers" : [
+                  {
+                    "VoucherNo": 2201,
+                    "VocherDate": "01-02-2020",
+                    "Account": "Shri Vinayak Firm",
+                      "TransactionType": "CV-R" 
+                  },
+                  {
+                    "VoucherNo": 2202,
+                    "VocherDate": "01-02-2020",
+                    "Account": "Shri Vinayak Firm",
+                      "TransactionType": "CV-R" 
+                  },
+                  {
+                    "VoucherNo": 2203,
+                    "VocherDate": "01-02-2020",
+                    "Account": "Shri Vinayak Firm",
+                      "TransactionType": "CV-R" 
+                  }
+                ]
   }
